@@ -30,16 +30,3 @@ plt.hist(N)                      # plot the graph
 plt.xlabel('the money a person has')
 plt.ylabel('the number of people ')
 plt.title("competition's result")
-
-
-# In[ ]:
-
-
-print(np.size(R))
-
-
-# In[ ]:
-
-
-
-
